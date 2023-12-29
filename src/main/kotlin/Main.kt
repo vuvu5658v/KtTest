@@ -255,3 +255,7 @@ val calculateGrade : (Int) -> String = {
 fun invokeLamda(lamda : (Double) -> Boolean) : Boolean{
     return lamda(123.123)
 }
+
+fun addFunction(){
+    println("git pr create!!!!")
+}
